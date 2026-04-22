@@ -1,242 +1,900 @@
 [
   {
-    "id": "1",
-    "name": "Doom (浏览器版)",
-    "url": "https://dos.zone/doom-1993/",
-    "description": "经典第一人称射击游戏 DOOM 的完整浏览器复刻版。无需安装，直接在网页中体验 1993 年的传奇射击游戏，支持键盘全键位操控，还原度极高。",
-    "category": "游戏",
-    "aiTools": ["ChatGPT"],
-    "source": "Reddit",
-    "sourceUrl": "https://www.reddit.com/r/programming/",
+    "id": "b322b1ae-0b84-4faf-b2d1-e0c846d2550f",
+    "name": "AI ATS Checker",
+    "url": "https://hot100.ai",
+    "description": "Free AI-powered resume tool with pro analysis, instant job match scoring, JD gap detection, formatting checks—10 free scans daily",
+    "category": "教育",
+    "aiTools": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": true,
-    "createdAt": "2024-01-10"
+    "createdAt": "2026-04-22T18:11:30.009805"
   },
   {
-    "id": "2",
-    "name": "AI 文字冒险引擎",
-    "url": "https://aidungeon.com",
-    "description": "用 Claude 驱动的无限文字冒险游戏，你的每一个选择都会影响故事走向。AI 实时生成剧情，世界观无限延伸，是 Vibe Coding 与游戏设计结合的典范之作。",
-    "category": "游戏",
-    "aiTools": ["Claude"],
-    "source": "Product Hunt",
-    "sourceUrl": "https://www.producthunt.com/",
-    "featured": false,
-    "createdAt": "2024-02-15"
-  },
-  {
-    "id": "3",
-    "name": "俄罗斯方块 AI 版",
-    "url": "https://jstris.jezevec10.com/",
-    "description": "用 Cursor + Claude 在一个下午完成的俄罗斯方块，支持 AI 自动对战模式。代码不到 300 行，却包含完整的碰撞检测、分数系统和动态难度调整。",
-    "category": "游戏",
-    "aiTools": ["Cursor", "Claude"],
-    "source": "即刻",
-    "sourceUrl": "https://okjike.com",
-    "featured": false,
-    "createdAt": "2024-03-01"
-  },
-  {
-    "id": "4",
-    "name": "贪吃蛇 × AI 寻路",
-    "url": "https://playsnake.org/",
-    "description": "经典贪吃蛇游戏加入了 A* 寻路算法 AI 模式，可以看着 AI 自动玩并学习策略。整个项目用 ChatGPT 辅助开发，1 小时内完成原型，视觉效果非常流畅。",
-    "category": "游戏",
-    "aiTools": ["ChatGPT"],
-    "source": "Twitter",
-    "sourceUrl": "https://twitter.com",
-    "featured": false,
-    "createdAt": "2024-03-10"
-  },
-  {
-    "id": "5",
-    "name": "Cursor Directory",
-    "url": "https://cursor.directory",
-    "description": "全球最大的 Cursor 规则（Rules）聚合平台，收录了数千条社区贡献的 .cursorrules 文件。按语言、框架、场景分类，帮助开发者快速找到适合自己项目的 AI 编程提示词。",
-    "category": "工具",
-    "aiTools": ["Cursor"],
-    "source": "Product Hunt",
-    "sourceUrl": "https://www.producthunt.com/",
+    "id": "12c4be7f-73b9-4ff2-9d62-3eaba174b450",
+    "name": "TypeMyVibe",
+    "url": "https://typemyvibe.ai",
+    "description": "AI personality analyzer that decodes your personality using Reddit/X posts or uploaded chat exports. Find MBTI, Enneagram, Big Five, and alignment in minutes",
+    "category": "创意",
+    "aiTools": [
+      "Claude",
+      "Mistral"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": true,
-    "createdAt": "2024-01-20"
+    "createdAt": "2026-04-22T18:11:30.009819"
   },
   {
-    "id": "6",
-    "name": "v0.dev",
-    "url": "https://v0.dev",
-    "description": "Vercel 出品的 AI UI 生成工具，输入文字描述即可生成可直接使用的 React 组件代码。支持 Tailwind CSS、shadcn/ui，生成的代码质量极高，是前端 Vibe Coding 的必备神器。",
-    "category": "工具",
-    "aiTools": ["v0"],
-    "source": "Product Hunt",
-    "sourceUrl": "https://www.producthunt.com/posts/v0-by-vercel",
+    "id": "6197cfd9-cb6b-492a-b496-0ce1ee30f9bb",
+    "name": "Rainz",
+    "url": "https://rainz.net",
+    "description": "Weather app that turns weather into a game with mini games and leaderboard. Most precise free weather app on the market",
+    "category": "生活",
+    "aiTools": [
+      "Claude",
+      "GPT",
+      "ChatGPT",
+      "Lovable"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": true,
-    "createdAt": "2024-01-05"
+    "createdAt": "2026-04-22T18:11:30.009827"
   },
   {
-    "id": "7",
-    "name": "bolt.new",
-    "url": "https://bolt.new",
-    "description": "StackBlitz 推出的全栈 AI 开发平台，在浏览器中即可完成从代码生成到部署的全流程。支持 React、Vue、Node.js 等主流框架，几分钟就能将一个想法变成可运行的应用。",
+    "id": "0c4cf170-90bc-40ef-9552-a7bff3d62341",
+    "name": "Digia",
+    "url": "https://digia.ai",
+    "description": "Low-code app builder that lets brands launch fully native apps instantly with server-driven releases and real-time updates",
     "category": "工具",
-    "aiTools": ["Bolt"],
-    "source": "Product Hunt",
-    "sourceUrl": "https://www.producthunt.com/",
+    "aiTools": [
+      "Claude"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2024-02-01"
+    "createdAt": "2026-04-22T18:11:30.009835"
   },
   {
-    "id": "8",
-    "name": "screenshot-to-code",
-    "url": "https://github.com/abi/screenshot-to-code",
-    "description": "开源神器，截图直接转 HTML/CSS/React 代码，支持 GPT-4V 和 Claude Vision。上传任意网页截图或设计稿，AI 会生成高度还原的前端代码，大大加速 UI 还原工作。",
+    "id": "254b5e42-125d-40e9-b4d8-48772578ef00",
+    "name": "Odysser",
+    "url": "https://odysser.com",
+    "description": "AI video animation platform that analyzes videos and suggests animations that fit your content, with direct editing capability",
+    "category": "创意",
+    "aiTools": [
+      "Claude",
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009841"
+  },
+  {
+    "id": "0a204735-2de7-4696-82dd-4bca284f7206",
+    "name": "Infinite Talk AI",
+    "url": "https://infinitetalk.net",
+    "description": "Upload photo plus audio to generate natural, lip-synced talking video with realistic expressions and movements",
+    "category": "创意",
+    "aiTools": [
+      "AI"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009848"
+  },
+  {
+    "id": "8c8ae78f-539b-4f5a-96dc-cbede773f1ae",
+    "name": "Bragdoc.ai",
+    "url": "https://bragdoc.ai",
+    "description": "Turns Git commits into well-written documentation of your work for standups and reviews without manual effort",
     "category": "工具",
-    "aiTools": ["Claude", "ChatGPT"],
-    "source": "Reddit",
-    "sourceUrl": "https://www.reddit.com/r/MachineLearning/",
+    "aiTools": [
+      "Claude"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2024-01-15"
+    "createdAt": "2026-04-22T18:11:30.009854"
   },
   {
-    "id": "9",
-    "name": "This Person Does Not Exist",
-    "url": "https://thispersondoesnotexist.com",
-    "description": "GAN 生成的超真实人脸图片，每次刷新都会出现一个从未存在过的人。这个项目开创了 AI 生成内容展示的新形式，至今仍是 AI 创意项目的经典之作，引发了大量关于 AI 伦理的讨论。",
+    "id": "0af2813d-3e88-4fb6-a9f9-cf42137407c9",
+    "name": "CinemaDrop",
+    "url": "https://cinemadrop.com",
+    "description": "All-in-one AI filmmaking studio to create music videos, commercials, short films and trailers 10x faster",
     "category": "创意",
-    "aiTools": ["其他"],
-    "source": "Twitter",
-    "sourceUrl": "https://twitter.com",
+    "aiTools": [
+      "AI"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2023-12-01"
+    "createdAt": "2026-04-22T18:11:30.009860"
   },
   {
-    "id": "10",
-    "name": "AI 诗歌生成器",
-    "url": "https://www.poem-generator.org.uk/",
-    "description": "用 Claude 驱动的中英文诗歌创作工具，输入主题和情感关键词，AI 即可生成格律严谨的古诗或现代诗。支持藏头诗、七律、宋词等多种格式，是文学与 AI 融合的精彩探索。",
+    "id": "ebd52f67-c126-4cd4-9a80-2bd4c47169b9",
+    "name": "Boardspace.ai",
+    "url": "https://boardspace.ai",
+    "description": "AI canvas for interior designers that routes to 16 agents automatically. Sketch-to-photorealistic-video in one conversation",
     "category": "创意",
-    "aiTools": ["Claude"],
-    "source": "即刻",
-    "sourceUrl": "https://okjike.com",
+    "aiTools": [
+      "Claude",
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2024-02-20"
+    "createdAt": "2026-04-22T18:11:30.009867"
   },
   {
-    "id": "11",
-    "name": "AI 生成个人简历站",
-    "url": "https://read.cv",
-    "description": "用 Cursor + v0 在 2 小时内完成的个人简历网站，具有炫酷的滚动动画和暗色主题。整个开发过程几乎不用手写代码，充分展示了 Vibe Coding 在个人品牌建设中的巨大潜力。",
+    "id": "33426595-b674-4bb2-ace4-954fb3b7b851",
+    "name": "diffray",
+    "url": "https://diffray.ai",
+    "description": "AI code review with 30+ specialized agents. Catches real bugs with 87% fewer false positives than single-agent tools",
+    "category": "工具",
+    "aiTools": [
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009873"
+  },
+  {
+    "id": "16e0b002-9a01-454f-aa62-f4cb1df7e244",
+    "name": "DevScribe",
+    "url": "https://devscribe.io",
+    "description": "All-in-one desktop editor for writing docs, designing architectures, creating ERDs & API docs, visualizing databases fully offline",
+    "category": "工具",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009879"
+  },
+  {
+    "id": "3b2a36bc-2d1c-482e-bdc2-c1a53da4ca4b",
+    "name": "ZoeMD",
+    "url": "https://zoemd.ai",
+    "description": "Evidence-based clinical AI assistant that finds medical guidelines and research, then summarizes into actionable answers for physicians",
+    "category": "生活",
+    "aiTools": [
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009885"
+  },
+  {
+    "id": "a3111696-e2a3-494e-9109-6c2710b52754",
+    "name": "TalkFlowy",
+    "url": "https://talkflowy.com",
+    "description": "Real-time voice transcription for Mac with 99% accuracy in 50+ languages, fully offline, no subscription",
+    "category": "工具",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Lovable"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009891"
+  },
+  {
+    "id": "b9e91b45-2f07-4698-8fbe-06cc6fbfec6b",
+    "name": "Flare Warden",
+    "url": "https://flarewarden.io",
+    "description": "Detects SSL, DNS, payment providers, CDNs, and 700+ other dependencies in under 2 minutes with verification from 6 continents",
+    "category": "工具",
+    "aiTools": [
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009897"
+  },
+  {
+    "id": "567860b4-e809-4633-867b-d2505ebf0aff",
+    "name": "Kitchen Remodel AI",
+    "url": "https://kitchenremodel.ai",
+    "description": "Upload kitchen photo and explore 30+ layout-preserving remodel directions to compare styles before buying materials",
     "category": "创意",
-    "aiTools": ["Cursor", "v0"],
-    "source": "Twitter",
-    "sourceUrl": "https://twitter.com",
+    "aiTools": [
+      "AI"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2024-03-05"
+    "createdAt": "2026-04-22T18:11:30.009903"
   },
   {
-    "id": "12",
-    "name": "Character.AI",
-    "url": "https://character.ai",
-    "description": "全球最流行的 AI 角色扮演聊天平台，用户可以与各种虚拟角色进行深度对话，也可以创建自己的 AI 人物。月活用户超过 2000 万，是 AI 陪伴经济的领军产品。",
-    "category": "聊天",
-    "aiTools": ["其他"],
-    "source": "Product Hunt",
-    "sourceUrl": "https://www.producthunt.com/",
+    "id": "a2fccdf6-61ad-419e-9435-1eb8f5379a8f",
+    "name": "RoomX.AI",
+    "url": "https://roomx.ai",
+    "description": "AI virtual staging for real estate that transforms vacant listings in 30 seconds with professional furniture placement at $0.02/image",
+    "category": "生活",
+    "aiTools": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2023-11-15"
+    "createdAt": "2026-04-22T18:11:30.009908"
   },
   {
-    "id": "13",
-    "name": "Janitor AI",
-    "url": "https://janitorai.com",
-    "description": "以自由度著称的 AI 角色聊天平台，允许创建各类个性鲜明的虚拟角色。用户社区非常活跃，已有数千个原创角色，支持多种 AI 模型切换，提供高度自定义的聊天体验。",
-    "category": "聊天",
-    "aiTools": ["其他"],
-    "source": "Reddit",
-    "sourceUrl": "https://www.reddit.com/r/AIAssistants/",
+    "id": "cd4f5424-7fd7-4427-a2f4-501a06b5dd8d",
+    "name": "Gut Goddess",
+    "url": "https://gutgoddess.app",
+    "description": "Photo-first AI that links meals to how you feel. Snap a plate, log vibes, and see patterns—triggers vs power foods",
+    "category": "生活",
+    "aiTools": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2024-01-25"
+    "createdAt": "2026-04-22T18:11:30.009914"
   },
   {
-    "id": "14",
-    "name": "AI 股票数据看板",
-    "url": "https://finviz.com/map.ashx",
-    "description": "用 Claude 辅助开发的 A 股实时数据可视化大屏，集成了 K 线、涨跌幅热力图、板块轮动等核心功能。整个项目由非专业程序员用 Vibe Coding 方式完成，成为圈内热议话题。",
+    "id": "20cfc425-df86-4487-9285-ab7bd1e5103e",
+    "name": "Notation by Fownd",
+    "url": "https://notation.ai",
+    "description": "Real-time AI documentation for physical therapists that documents during care automatically",
+    "category": "生活",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009920"
+  },
+  {
+    "id": "ce06daec-8ba0-4e0c-b5b9-f39fd22668e0",
+    "name": "Hype My Hustle",
+    "url": "https://hypemyhustle.app",
+    "description": "Helps indie hackers and makers ship apps faster with AI roadmaps, bite-sized tasks, and gamified progress",
+    "category": "工具",
+    "aiTools": [
+      "Claude",
+      "GPT",
+      "ChatGPT"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009927"
+  },
+  {
+    "id": "64bbd31d-54d3-480d-9331-32db24895c44",
+    "name": "Skippership",
+    "url": "https://skippership.io",
+    "description": "Full session replays with interactive heatmaps, goal tracking, funnels, and console error capture without limits",
     "category": "数据可视化",
-    "aiTools": ["Claude"],
-    "source": "即刻",
-    "sourceUrl": "https://okjike.com",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2024-02-08"
+    "createdAt": "2026-04-22T18:11:30.009932"
   },
   {
-    "id": "15",
-    "name": "世界实时数据大屏",
-    "url": "https://worldometers.info",
-    "description": "ChatGPT 辅助开发的全球实时统计数据可视化平台，展示人口、能源、食品、环境等实时数据流。动态数字跳动的视觉效果极具冲击力，是数据新闻与 AI 工程的完美结合。",
+    "id": "0c2dca6a-d135-4f40-b288-b7e0349d8089",
+    "name": "Makko AI",
+    "url": "https://makko.ai",
+    "description": "AI 2D game studio where you describe your game idea and AI creates characters, animations, backgrounds, and playable games in your browser",
+    "category": "游戏",
+    "aiTools": [
+      "AI"
+    ],
+    "source": "Product Hunt",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009938"
+  },
+  {
+    "id": "70a01a8c-adde-43dd-891a-40208b658d3d",
+    "name": "deduce",
+    "url": "https://deduce.fun",
+    "description": "Daily adversarial AI puzzle where your agent has 5 turns to extract a secret from a defender AI through social engineering",
+    "category": "游戏",
+    "aiTools": [
+      "Claude",
+      "GPT"
+    ],
+    "source": "Product Hunt",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009944"
+  },
+  {
+    "id": "8dafb06c-cbbb-4f0f-b466-ba41e7b666ab",
+    "name": "GATEKEEPER-9000",
+    "url": "https://clankerpass.com",
+    "description": "Interactive challenge where you must convince a smug AI that you are a machine in 3 messages to earn a Clanker Pass",
+    "category": "游戏",
+    "aiTools": [
+      "AI"
+    ],
+    "source": "Product Hunt",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009949"
+  },
+  {
+    "id": "b5af4e50-cf5b-45c4-bc2c-841ff9683b68",
+    "name": "Bitdive",
+    "url": "https://bitdive.io",
+    "description": "Gives AI assistants real JVM runtime context via MCP for 3x more precise suggestions and 75% faster MTTR",
+    "category": "工具",
+    "aiTools": [
+      "Claude",
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009956"
+  },
+  {
+    "id": "d8d872fa-6910-4e7c-a5d4-f3bb85cb2d07",
+    "name": "Janus",
+    "url": "https://janus.app",
+    "description": "Turns PDFs, notes, and videos into flashcards ready to be rehearsed in Anki or Mochi",
+    "category": "教育",
+    "aiTools": [
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009961"
+  },
+  {
+    "id": "8c474a7d-4d96-4efb-8990-cf37a78d457d",
+    "name": "Arkhet",
+    "url": "https://arkhet.app",
+    "description": "AI prototyping by wireframes, not by writing prompts—faster and more intuitive design iteration",
+    "category": "创意",
+    "aiTools": [
+      "Claude"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009967"
+  },
+  {
+    "id": "35403046-343b-4bbe-b57d-13ebcf43b4ca",
+    "name": "Commit To X",
+    "url": "https://committox.app",
+    "description": "Turns GitHub commits into engaging posts to help developers share work, build transparency, and grow personal brands",
+    "category": "工具",
+    "aiTools": [
+      "Claude",
+      "GPT",
+      "ChatGPT"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009975"
+  },
+  {
+    "id": "0e58a4e8-32d0-4f39-8faf-dfeeacf0297a",
+    "name": "Dione",
+    "url": "https://dione.app",
+    "description": "Discover, download, and install open-source AI apps with 1 click—fast, cross-platform installer with auto-updates",
+    "category": "工具",
+    "aiTools": [
+      "Claude",
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009982"
+  },
+  {
+    "id": "3cdc15bb-f316-4ef2-bd87-bcf5b6bc69a9",
+    "name": "ColorPalGen",
+    "url": "https://colorpalgen.com",
+    "description": "AI color palette generator that extracts colors from images, generates harmonious schemes, checks contrast, exports CSS tokens",
+    "category": "创意",
+    "aiTools": [
+      "Cursor",
+      "Bolt"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.009987"
+  },
+  {
+    "id": "520455b1-5716-4cbf-8496-8521d57f258a",
+    "name": "iLoveDCF",
+    "url": "https://ilovedcf.com",
+    "description": "Convert PDF financial statements into fully-built Excel DCF models in minutes for corporate finance professionals",
     "category": "数据可视化",
-    "aiTools": ["ChatGPT"],
-    "source": "Product Hunt",
-    "sourceUrl": "https://www.producthunt.com/",
+    "aiTools": [
+      "Claude",
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2024-01-30"
+    "createdAt": "2026-04-22T18:11:30.009994"
   },
   {
-    "id": "16",
-    "name": "AI 食谱生成器",
-    "url": "https://www.supercook.com/",
-    "description": "输入冰箱里现有的食材，AI 立即推荐可以做的菜谱并生成详细步骤。支持中餐、西餐、日料等多种菜系，还能根据热量、过敏原等条件进行个性化筛选，居家必备神器。",
-    "category": "生活",
-    "aiTools": ["ChatGPT"],
-    "source": "Product Hunt",
-    "sourceUrl": "https://www.producthunt.com/",
+    "id": "29e52e21-503a-4cf9-bc7d-93b21c5e0e20",
+    "name": "Glasscribe",
+    "url": "https://glasscribe.app",
+    "description": "macOS menu bar app for real-time speech-to-text transcription in 22+ languages, 100% on-device, with live translation",
+    "category": "工具",
+    "aiTools": [
+      "Cursor",
+      "Gemini"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2024-02-12"
+    "createdAt": "2026-04-22T18:11:30.010000"
   },
   {
-    "id": "17",
-    "name": "AI 恋爱话术助手",
-    "url": "https://rizz.app",
-    "description": "用 Claude 开发的恋爱社交辅助工具，帮助用户生成更有吸引力的聊天回复。支持分析对方消息的情感倾向并给出应对策略，曾在 TikTok 上引发病毒式传播，下载量破百万。",
-    "category": "生活",
-    "aiTools": ["Claude"],
-    "source": "Twitter",
-    "sourceUrl": "https://twitter.com",
-    "featured": false,
-    "createdAt": "2024-03-08"
-  },
-  {
-    "id": "18",
-    "name": "AI 旅行规划师",
-    "url": "https://www.wonderplan.ai/",
-    "description": "用 ChatGPT 驱动的智能行程规划工具，输入目的地、天数和预算，自动生成详细的每日行程安排。包含景点推荐、餐厅建议、交通指引，还能实时调整行程，旅行体验提升明显。",
-    "category": "生活",
-    "aiTools": ["ChatGPT"],
-    "source": "Product Hunt",
-    "sourceUrl": "https://www.producthunt.com/",
-    "featured": false,
-    "createdAt": "2024-02-25"
-  },
-  {
-    "id": "19",
-    "name": "即刻 Vibe Coding 社区作品",
-    "url": "https://okjike.com",
-    "description": "即刻 App 上聚集了大量国内 Vibe Coding 爱好者，每天分享用 AI 工具做出的各种有趣应用。从个人工具到创意游戏，这里是中文互联网最活跃的 AI 创作者社区之一。",
+    "id": "beeca5da-470a-41bb-9c6b-cf7369ca5c52",
+    "name": "Project Genie",
+    "url": "https://projectgenie.io",
+    "description": "AI platform that transforms text and images into real-time interactive 3D worlds",
     "category": "创意",
-    "aiTools": ["Cursor", "Claude", "ChatGPT"],
-    "source": "即刻",
-    "sourceUrl": "https://okjike.com",
+    "aiTools": [
+      "Claude",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2024-03-15"
+    "createdAt": "2026-04-22T18:11:30.010007"
   },
   {
-    "id": "20",
-    "name": "小红书 AI 创作合集",
-    "url": "https://www.xiaohongshu.com",
-    "description": "小红书上涌现出大量用 Bolt、Cursor 制作的创意小工具和可视化作品，话题 #vibe coding# 已有数千篇笔记。从星座运势生成器到个性化壁纸工具，展现了普通人用 AI 创造的无限可能。",
-    "category": "创意",
-    "aiTools": ["Bolt", "Cursor"],
-    "source": "小红书",
-    "sourceUrl": "https://www.xiaohongshu.com",
+    "id": "587a06c4-0452-4d15-a34a-3ffd034c0cc9",
+    "name": "AI Manga Translator",
+    "url": "https://aimangatranslator.com",
+    "description": "Online AI manga translator with OCR for vertical/horizontal text and layout-preserving typesetting",
+    "category": "工具",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
     "featured": false,
-    "createdAt": "2024-03-18"
+    "createdAt": "2026-04-22T18:11:30.010014"
+  },
+  {
+    "id": "6ef65d5a-bdfc-426c-9177-d2ec73ca113a",
+    "name": "Sage",
+    "url": "https://sage.ai",
+    "description": "Generative UI chatbot that creates interactive components inside chat for better product decision-making",
+    "category": "聊天",
+    "aiTools": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010020"
+  },
+  {
+    "id": "0f9e8c40-cdf6-4962-962c-c373ae86f070",
+    "name": "TypMo",
+    "url": "https://typmo.io",
+    "description": "Write wireframes in Markdown format and export detailed implementation specs for AI coding tools",
+    "category": "创意",
+    "aiTools": [
+      "Claude",
+      "GPT",
+      "ChatGPT"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010026"
+  },
+  {
+    "id": "f62ec346-30eb-4873-8b45-1447013d93c8",
+    "name": "Pathoura",
+    "url": "https://pathoura.ai",
+    "description": "AI-powered multilingual museum audio-guide platform for creating and managing high-quality tours",
+    "category": "生活",
+    "aiTools": [
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010032"
+  },
+  {
+    "id": "c8fdb4eb-d5bb-40c1-9e6e-f46ded11eec8",
+    "name": "Pixloo",
+    "url": "https://pixloo.app",
+    "description": "AI storytelling app for kids to create personalized illustrated stories with audio bedtime mode and learning features",
+    "category": "教育",
+    "aiTools": [
+      "Gemini"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010038"
+  },
+  {
+    "id": "a4bf4570-dd70-48c0-8b3d-7b687269d843",
+    "name": "Squared Away",
+    "url": "https://squaredaway.app",
+    "description": "AI home inventory app that catalogs belongings automatically—just snap photos and AI identifies and organizes everything",
+    "category": "生活",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010044"
+  },
+  {
+    "id": "499e525b-ee74-48d6-acd4-06a0415ae762",
+    "name": "ArchRender",
+    "url": "https://archrender.io",
+    "description": "Photorealistic AI rendering tool for architects and designers to visualize projects",
+    "category": "创意",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010050"
+  },
+  {
+    "id": "864ca153-54b0-4031-bf09-ae49b606b48a",
+    "name": "Oravida AI",
+    "url": "https://oravida.ai",
+    "description": "AI platform that transforms resumes into beautiful searchable portfolio websites with spam protection and analytics",
+    "category": "教育",
+    "aiTools": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010055"
+  },
+  {
+    "id": "5e6e4c05-7f41-4679-b240-635907f5c239",
+    "name": "3D-Agent",
+    "url": "https://3d-agent.io",
+    "description": "AI 3D model generator that transforms text descriptions into production-ready 3D assets directly in Blender",
+    "category": "创意",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010063"
+  },
+  {
+    "id": "f262cc61-e8c6-4791-94c3-072e5fed42a6",
+    "name": "text to 3d",
+    "url": "https://textto3d.io",
+    "description": "Generate high-quality textured 3D models from images or prompts with browser preview and export features",
+    "category": "创意",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "v0"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010069"
+  },
+  {
+    "id": "a604d276-f7dd-452d-b4d0-d2928ad78c76",
+    "name": "PlanMyMeal.ai",
+    "url": "https://planmymeal.ai",
+    "description": "Turn grocery receipts into personalized meal plans with AI to save time and reduce food waste",
+    "category": "生活",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010075"
+  },
+  {
+    "id": "fd67b754-578a-49a8-aeb4-3abf19fea95c",
+    "name": "HookMesh",
+    "url": "https://hookmesh.io",
+    "description": "Reliable outbound webhook delivery for SaaS with automatic retries, circuit breakers, and customer portal",
+    "category": "工具",
+    "aiTools": [
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010081"
+  },
+  {
+    "id": "aff6db17-f149-422b-b760-7fc85c38b776",
+    "name": "Nora AI",
+    "url": "https://noraai.app",
+    "description": "AI mock interviewer that simulates interviews through voice and gives instant feedback on your performance",
+    "category": "教育",
+    "aiTools": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010087"
+  },
+  {
+    "id": "69858a78-85de-4aac-ae89-b35afb4ca074",
+    "name": "Didoo AI",
+    "url": "https://didoo.ai",
+    "description": "Complete A-to-Z advertising platform for SMBs that creates, launches, and optimizes high-performing Meta ads",
+    "category": "工具",
+    "aiTools": [
+      "v0",
+      "Gemini"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010093"
+  },
+  {
+    "id": "5dd6b89c-370c-4b8c-9881-ee3d7693e06f",
+    "name": "Ternwheel",
+    "url": "https://ternwheel.io",
+    "description": "Profitability platform for live entertainment that unifies tour logistics, budgeting, and payments",
+    "category": "创意",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Lovable",
+      "v0"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010099"
+  },
+  {
+    "id": "9472dead-dfc6-43c1-8987-64258cd1dce5",
+    "name": "ResponseHub",
+    "url": "https://responsehub.io",
+    "description": "Automate security questionnaire responses with AI",
+    "category": "工具",
+    "aiTools": [
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010105"
+  },
+  {
+    "id": "632027de-0b4c-42da-b6f3-55bbda5433cc",
+    "name": "Bonjournal",
+    "url": "https://bonjournal.app",
+    "description": "AI language coach built around daily journaling with line-by-line grammar corrections",
+    "category": "教育",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010111"
+  },
+  {
+    "id": "875603d0-d19d-40fb-8a5a-225e59e15391",
+    "name": "Song Lyrics Review",
+    "url": "https://songlyricsreview.com",
+    "description": "AI tool for decoding lyrical depth and auditing music reviews with emotional arc mapping",
+    "category": "创意",
+    "aiTools": [
+      "Claude",
+      "Gemini"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010116"
+  },
+  {
+    "id": "c8733bf8-c69e-4329-80f4-80a549d9cbd0",
+    "name": "PrivateClawd",
+    "url": "https://privateclawd.com",
+    "description": "Deploy private AI agents in under a minute that run 24/7 with browser automation and messaging integrations",
+    "category": "工具",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010122"
+  },
+  {
+    "id": "dc984ace-cb6c-459c-af74-0560241fcfa5",
+    "name": "LunoKid",
+    "url": "https://lunokid.app",
+    "description": "Gamified chore app for kids ages 4-12 to care for AI virtual pet while earning rewards—COPPA compliant",
+    "category": "游戏",
+    "aiTools": [
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010129"
+  },
+  {
+    "id": "31bc04cf-f063-4573-9872-94a43542b1cc",
+    "name": "Z-Image",
+    "url": "https://z-image.io",
+    "description": "Efficient 6B-parameter AI image generator with sub-second inference and bilingual text rendering",
+    "category": "创意",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010135"
+  },
+  {
+    "id": "7e41e1f0-87f6-4154-82bd-0beaa0d6c170",
+    "name": "Creatok",
+    "url": "https://creatok.io",
+    "description": "Find viral videos tailored for you, then use AIGC models to quickly create AI-powered video ads",
+    "category": "创意",
+    "aiTools": [
+      "Claude",
+      "GPT",
+      "ChatGPT",
+      "Cursor",
+      "Gemini"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010142"
+  },
+  {
+    "id": "666e1340-07de-4992-b869-97710c2d6287",
+    "name": "Noone Web3 Wallet",
+    "url": "https://noone.io",
+    "description": "Non-custodial Web3 wallet supporting 19+ blockchains and 1000+ assets with DEX/CEX swaps",
+    "category": "数据可视化",
+    "aiTools": [
+      "GPT",
+      "ChatGPT",
+      "Cursor"
+    ],
+    "source": "Hot100.ai",
+    "sourceUrl": "",
+    "coverUrl": "",
+    "featured": false,
+    "createdAt": "2026-04-22T18:11:30.010148"
   }
 ]
