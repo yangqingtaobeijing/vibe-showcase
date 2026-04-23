@@ -180,7 +180,7 @@
   {
     "id": "3b2a36bc-2d1c-482e-bdc2-c1a53da4ca4b",
     "name": "ZoeMD",
-    "url": "https://zoemd.ai",
+    "url": "https://zoemed.ai",
     "description": "Evidence-based clinical AI assistant that finds medical guidelines and research, then summarizes into actionable answers for physicians",
     "category": "生活",
     "aiTools": [
@@ -212,7 +212,7 @@
   {
     "id": "b9e91b45-2f07-4698-8fbe-06cc6fbfec6b",
     "name": "Flare Warden",
-    "url": "https://flarewarden.io",
+    "url": "https://flarewarden.com",
     "description": "Detects SSL, DNS, payment providers, CDNs, and 700+ other dependencies in under 2 minutes with verification from 6 continents",
     "category": "工具",
     "aiTools": [
@@ -228,7 +228,7 @@
   {
     "id": "567860b4-e809-4633-867b-d2505ebf0aff",
     "name": "Kitchen Remodel AI",
-    "url": "https://kitchenremodel.ai",
+    "url": "https://kitchenremodelai.com",
     "description": "Upload kitchen photo and explore 30+ layout-preserving remodel directions to compare styles before buying materials",
     "category": "创意",
     "aiTools": [
@@ -259,7 +259,7 @@
   {
     "id": "cd4f5424-7fd7-4427-a2f4-501a06b5dd8d",
     "name": "Gut Goddess",
-    "url": "https://gutgoddess.app",
+    "url": "https://gutgoddess.com",
     "description": "Photo-first AI that links meals to how you feel. Snap a plate, log vibes, and see patterns—triggers vs power foods",
     "category": "生活",
     "aiTools": [
@@ -292,7 +292,7 @@
   {
     "id": "ce06daec-8ba0-4e0c-b5b9-f39fd22668e0",
     "name": "Hype My Hustle",
-    "url": "https://hypemyhustle.app",
+    "url": "https://hypemyhustle.com",
     "description": "Helps indie hackers and makers ship apps faster with AI roadmaps, bite-sized tasks, and gamified progress",
     "category": "工具",
     "aiTools": [
@@ -309,7 +309,7 @@
   {
     "id": "64bbd31d-54d3-480d-9331-32db24895c44",
     "name": "Skippership",
-    "url": "https://skippership.io",
+    "url": "https://skippership.com",
     "description": "Full session replays with interactive heatmaps, goal tracking, funnels, and console error capture without limits",
     "category": "数据可视化",
     "aiTools": [
@@ -420,7 +420,7 @@
   {
     "id": "35403046-343b-4bbe-b57d-13ebcf43b4ca",
     "name": "Commit To X",
-    "url": "https://committox.app",
+    "url": "https://committox.com",
     "description": "Turns GitHub commits into engaging posts to help developers share work, build transparency, and grow personal brands",
     "category": "工具",
     "aiTools": [
@@ -505,7 +505,7 @@
   {
     "id": "beeca5da-470a-41bb-9c6b-cf7369ca5c52",
     "name": "Project Genie",
-    "url": "https://projectgenie.io",
+    "url": "https://labs.google/projectgenie",
     "description": "AI platform that transforms text and images into real-time interactive 3D worlds",
     "category": "创意",
     "aiTools": [
@@ -554,7 +554,7 @@
   {
     "id": "0f9e8c40-cdf6-4962-962c-c373ae86f070",
     "name": "TypMo",
-    "url": "https://typmo.io",
+    "url": "https://typmo.com",
     "description": "Write wireframes in Markdown format and export detailed implementation specs for AI coding tools",
     "category": "创意",
     "aiTools": [
@@ -571,7 +571,7 @@
   {
     "id": "f62ec346-30eb-4873-8b45-1447013d93c8",
     "name": "Pathoura",
-    "url": "https://pathoura.ai",
+    "url": "https://pathoura.com",
     "description": "AI-powered multilingual museum audio-guide platform for creating and managing high-quality tours",
     "category": "生活",
     "aiTools": [
@@ -601,7 +601,7 @@
   {
     "id": "a4bf4570-dd70-48c0-8b3d-7b687269d843",
     "name": "Squared Away",
-    "url": "https://squaredaway.app",
+    "url": "https://squaredaway.ai",
     "description": "AI home inventory app that catalogs belongings automatically—just snap photos and AI identifies and organizes everything",
     "category": "生活",
     "aiTools": [
@@ -618,7 +618,7 @@
   {
     "id": "499e525b-ee74-48d6-acd4-06a0415ae762",
     "name": "ArchRender",
-    "url": "https://archrender.io",
+    "url": "https://archrender.ai",
     "description": "Photorealistic AI rendering tool for architects and designers to visualize projects",
     "category": "创意",
     "aiTools": [
@@ -651,7 +651,7 @@
   {
     "id": "5e6e4c05-7f41-4679-b240-635907f5c239",
     "name": "3D-Agent",
-    "url": "https://3d-agent.io",
+    "url": "https://3d-agent.com",
     "description": "AI 3D model generator that transforms text descriptions into production-ready 3D assets directly in Blender",
     "category": "创意",
     "aiTools": [
@@ -702,7 +702,7 @@
   {
     "id": "fd67b754-578a-49a8-aeb4-3abf19fea95c",
     "name": "HookMesh",
-    "url": "https://hookmesh.io",
+    "url": "https://gethookmesh.io",
     "description": "Reliable outbound webhook delivery for SaaS with automatic retries, circuit breakers, and customer portal",
     "category": "工具",
     "aiTools": [
@@ -749,7 +749,7 @@
   {
     "id": "5dd6b89c-370c-4b8c-9881-ee3d7693e06f",
     "name": "Ternwheel",
-    "url": "https://ternwheel.io",
+    "url": "https://ternwheel.com",
     "description": "Profitability platform for live entertainment that unifies tour logistics, budgeting, and payments",
     "category": "创意",
     "aiTools": [
@@ -799,7 +799,7 @@
   {
     "id": "875603d0-d19d-40fb-8a5a-225e59e15391",
     "name": "Song Lyrics Review",
-    "url": "https://songlyricsreview.com",
+    "url": "https://song-lyrics-review.com",
     "description": "AI tool for decoding lyrical depth and auditing music reviews with emotional arc mapping",
     "category": "创意",
     "aiTools": [
@@ -832,7 +832,7 @@
   {
     "id": "dc984ace-cb6c-459c-af74-0560241fcfa5",
     "name": "LunoKid",
-    "url": "https://lunokid.app",
+    "url": "https://lunokid.com",
     "description": "Gamified chore app for kids ages 4-12 to care for AI virtual pet while earning rewards—COPPA compliant",
     "category": "游戏",
     "aiTools": [
@@ -864,7 +864,7 @@
   {
     "id": "7e41e1f0-87f6-4154-82bd-0beaa0d6c170",
     "name": "Creatok",
-    "url": "https://creatok.io",
+    "url": "https://creatok.ai",
     "description": "Find viral videos tailored for you, then use AIGC models to quickly create AI-powered video ads",
     "category": "创意",
     "aiTools": [
